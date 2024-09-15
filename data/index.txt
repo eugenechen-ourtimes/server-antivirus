@@ -1,0 +1,11 @@
+agency1: 一級機關
+agency2: 二級機關
+section: 單位名稱
+public_ip: 對應IP
+system: 系統名稱
+os_type: 作業系統
+os_version: 作業系統版本
+is_physical: 實體或虛擬
+private_ip: IP
+expected_antivirus: 預期的防毒軟體
+actual_antivirus: 實際的防毒軟體
